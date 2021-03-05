@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+  <main name="Máy chủ">
+    <child name="Dell Poweredge Server"></child>
+    <child name="HPE Proliant Servers"></child>
+    <child name="Lenovo ThinkSystem"></child>
+    <child name="Server SuperMicro"></child>
+  </main>
+
+  <main name="Máy trạm">
+    <child name="HP Workstations"></child>
+    <child name="Dell Workstations"></child>
+    <child name="Supermicro"></child>
+  </main>
+
+  <main name="Linh kiện">
+    <child name="Intel Xeon Processor"></child>
+    <child name="Memory Server - RAM"></child>
+    <child name="HDD - Hard Drive Server"></child>
+    <child name="Solid State Drives (SSD)"></child>
+  </main>
+
+  <main name="Phần mềm">
+    <child name="MICROSOFT SOFTWARE"></child>
+  </main>
+  
+  <main name="Điện thoại">
+    <child name="Apple"></child>
+  </main>
+
+  <main name="Tủ rack">
+    <child name="Tủ Rack Server"></child>
+  </main>
+
+  <main name="Máy chiếu">
+    <child name="Máy Chiếu ViewSonic"></child>
+  </main>
+
+  <main name="NAS-STORAGE">
+    <child name="SYNOLOGY"></child>
+  </main>
+</menu>

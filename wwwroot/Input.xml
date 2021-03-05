@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cvt>
+  <common>
+    <title value="Shop Cường Việt"></title>
+    <description value="Chuyên cung cấp linh kiện điện tử các loại"></description>
+    <email value="lybaocuong@gmail.com"></email>
+    <phone value="0983 01 8787"></phone>
+    <address value="63 Phạm Ngọc Thạch, P.6, Q.3. HCM"></address>
+    <currency value="VNĐ"></currency>
+  </common>
+
+  <email>
+    <order_title value="Shop Cường Việt: Chi tiết đơn hàng"></order_title>
+    <reset_password_title value="Shop Cường Việt: khôi phục mật khẩu"></reset_password_title>
+    <register_title value="Shop Cường Việt: xác nhận tạo tài khoản"></register_title>
+    <contact_title value="Shop Cường Việt: Contact from "></contact_title>
+  </email>
+
+  <google>
+    <login_client_id value="703006504488-c9k73vkl3j7b66pjierfa5rvs9kejibk.apps.googleusercontent.com"></login_client_id>
+    <login_client_secret value="eq00P-kkMvy0OfApnR3PYV7y"></login_client_secret>
+  </google>
+
+  <facebook>
+    <login_app_id value="391776941568318"></login_app_id>
+    <login_app_secret value="2e89ea43cdfce10a7bc7bee8cc8cce18"></login_app_secret>
+  </facebook>
+</cvt>
