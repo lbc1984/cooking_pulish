@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <cvt>
   <common>
-    <title value="Shop Cường Việt"></title>
-    <description value="Chuyên cung cấp linh kiện điện tử các loại"></description>
+    <title value="Máy chủ store"></title>
+    <description value="Chuyên cung cấp linh kiện server các loại"></description>
     <email value="lybaocuong@gmail.com"></email>
-    <phone value="0983 01 8787"></phone>
-    <address value="63 Phạm Ngọc Thạch, P.6, Q.3. HCM"></address>
+    <phone value="(028) 66819779"></phone>
+    <address value="472/25/8 Lê Đức Thọ, Phường 17, Quận Gò Vấp, Thành phố Hồ Chí Minh"></address>
     <currency value="VNĐ"></currency>
   </common>
 
