@@ -14,7 +14,7 @@ var AutoComplete = function () {
      * @param {string} controlMaSanPham - Control mã sản phẩm
      * @param { string} controlFocus - Control nhận focus khi đã thành công
      */
-    this.SanPham = function (controlSanPham, controlMaSanPham, controlFocus) {
+    this.SanPham = function (controlSanPham) {
         var urlPost = "/Product/AutoComplete";
 
         $("#" + controlSanPham).autocomplete({
@@ -31,7 +31,7 @@ var AutoComplete = function () {
             .autocomplete("instance")._renderItem = function (ul, item) {
                 return $("<li>")
                     .append("<div>" +
-                        "<a href='/Product/Index?idProduct=" + item.value + "'>" +
+                        "<a href='/Product/Detail?id=" + item.value + "'>" +
                         "<img style='height:50px' src='" + item.image + "' /> " + item.label +
                         "</a>" +
                         "</div> ")
